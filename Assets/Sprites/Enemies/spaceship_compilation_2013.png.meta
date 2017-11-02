@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 5eb414baa6454324897efb0981ab2735
+timeCreated: 1492297593
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spaceship_compilation_2013_0
+    21300002: spaceship_compilation_2013_1
+    21300004: spaceship_compilation_2013_2
+    21300006: spaceship_compilation_2013_3
+    21300008: spaceship_compilation_2013_4
+    21300010: spaceship_compilation_2013_5
+    21300012: spaceship_compilation_2013_6
+    21300014: spaceship_compilation_2013_7
+    21300016: spaceship_compilation_2013_8
+    21300018: spaceship_compilation_2013_9
+    21300020: spaceship_compilation_2013_10
+    21300022: spaceship_compilation_2013_11
+    21300024: spaceship_compilation_2013_12
+    21300026: spaceship_compilation_2013_13
+    21300028: spaceship_compilation_2013_14
+    21300030: spaceship_compilation_2013_15
+    21300032: spaceship_compilation_2013_16
+    21300034: spaceship_compilation_2013_17
+    21300036: spaceship_compilation_2013_18
+    21300038: spaceship_compilation_2013_19
+    21300040: spaceship_compilation_2013_20
+    21300042: spaceship_compilation_2013_21
+    21300044: spaceship_compilation_2013_22
+    21300046: spaceship_compilation_2013_23
+    21300048: spaceship_compilation_2013_24
+    21300050: spaceship_compilation_2013_25
+    21300052: spaceship_compilation_2013_26
+    21300054: spaceship_compilation_2013_27
+    21300056: spaceship_compilation_2013_28
+    21300058: spaceship_compilation_2013_29
+    21300060: spaceship_compilation_2013_30
+    21300062: spaceship_compilation_2013_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 344
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 341
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 298
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 297
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 307
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 305
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 306
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 249
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 253
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 254
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 255
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 254
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 192
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 201
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 200
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 197
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 203
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 145
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 147
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_21
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 146
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 70
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 80
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 85
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 85
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 9
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 19
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 19
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_compilation_2013_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter Game Project 1", "Assembly-CSharp.csproj", "{A1A3855F-20D7-E563-544C-F6CC1505037A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter Game Project 1", "Assembly-CSharp-firstpass.csproj", "{CAD358D0-9D04-CC2C-CC8A-7381E85504CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter Game Project 1", "Assembly-CSharp-Editor.csproj", "{F152E3CD-A92F-CFE0-21F4-119C29ACD0B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1A3855F-20D7-E563-544C-F6CC1505037A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A3855F-20D7-E563-544C-F6CC1505037A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A3855F-20D7-E563-544C-F6CC1505037A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A3855F-20D7-E563-544C-F6CC1505037A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD358D0-9D04-CC2C-CC8A-7381E85504CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD358D0-9D04-CC2C-CC8A-7381E85504CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD358D0-9D04-CC2C-CC8A-7381E85504CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD358D0-9D04-CC2C-CC8A-7381E85504CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F152E3CD-A92F-CFE0-21F4-119C29ACD0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F152E3CD-A92F-CFE0-21F4-119C29ACD0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F152E3CD-A92F-CFE0-21F4-119C29ACD0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F152E3CD-A92F-CFE0-21F4-119C29ACD0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
